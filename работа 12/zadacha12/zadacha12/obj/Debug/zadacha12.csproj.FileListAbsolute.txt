@@ -1,0 +1,6 @@
+C:\Users\Александр\source\repos\zadacha12\zadacha12\bin\Debug\zadacha12.exe
+C:\Users\Александр\source\repos\zadacha12\zadacha12\bin\Debug\zadacha12.pdb
+C:\Users\Александр\source\repos\zadacha12\zadacha12\obj\Debug\zadacha12.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\zadacha12\zadacha12\obj\Debug\zadacha12.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\zadacha12\zadacha12\obj\Debug\zadacha12.exe
+C:\Users\Александр\source\repos\zadacha12\zadacha12\obj\Debug\zadacha12.pdb
