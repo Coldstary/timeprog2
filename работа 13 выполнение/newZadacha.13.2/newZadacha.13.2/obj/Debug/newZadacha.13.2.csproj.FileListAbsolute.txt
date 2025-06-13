@@ -1,6 +1,0 @@
-C:\Users\Александр\source\repos\newZadacha.13.2\newZadacha.13.2\bin\Debug\newZadacha.13.2.exe
-C:\Users\Александр\source\repos\newZadacha.13.2\newZadacha.13.2\bin\Debug\newZadacha.13.2.pdb
-C:\Users\Александр\source\repos\newZadacha.13.2\newZadacha.13.2\obj\Debug\newZadacha.13.2.csproj.AssemblyReference.cache
-C:\Users\Александр\source\repos\newZadacha.13.2\newZadacha.13.2\obj\Debug\newZadacha.13.2.csproj.CoreCompileInputs.cache
-C:\Users\Александр\source\repos\newZadacha.13.2\newZadacha.13.2\obj\Debug\newZadacha.13.2.exe
-C:\Users\Александр\source\repos\newZadacha.13.2\newZadacha.13.2\obj\Debug\newZadacha.13.2.pdb
