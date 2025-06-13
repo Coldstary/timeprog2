@@ -1,6 +1,0 @@
-C:\Users\Александр\source\repos\zadacha10\zadacha10\bin\Debug\zadacha10.exe
-C:\Users\Александр\source\repos\zadacha10\zadacha10\bin\Debug\zadacha10.pdb
-C:\Users\Александр\source\repos\zadacha10\zadacha10\obj\Debug\zadacha10.csproj.AssemblyReference.cache
-C:\Users\Александр\source\repos\zadacha10\zadacha10\obj\Debug\zadacha10.csproj.CoreCompileInputs.cache
-C:\Users\Александр\source\repos\zadacha10\zadacha10\obj\Debug\zadacha10.exe
-C:\Users\Александр\source\repos\zadacha10\zadacha10\obj\Debug\zadacha10.pdb
